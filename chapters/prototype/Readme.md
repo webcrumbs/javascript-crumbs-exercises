@@ -4,21 +4,22 @@
 
 fill in the blanks to make the program work:
 
-    (function() {
-      var larger = function(o1, o2) {
-        if ( o1.size > o2.size ) {
-            console.log('o1 is larger');
-        } else {
-            console.log('o2 is larger');
-        }
-      };
-      
-      var x = // write code here
-      var y = // write code here
-      
-      larger(x, y);    
-    }());
-
+```js
+(function() {
+  var larger = function(o1, o2) {
+    if ( o1.size > o2.size ) {
+        console.log('o1 is larger');
+    } else {
+        console.log('o2 is larger');
+    }
+  };
+  
+  var x = // write code here
+  var y = // write code here
+  
+  larger(x, y);    
+}());
+```
 ## `exercise02`
 
 fill in the blanks to make the program work:
