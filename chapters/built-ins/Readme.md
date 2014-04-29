@@ -64,8 +64,7 @@ var data = [
 var key = 'name';
 var values = ['goofy', 'scrooge'];
 
-select(data, key, values)
-// [ { id:'04', name:'goofy' }, { id:'06', name:'scrooge' } ]
+select(data, key, values); // [ { id:'04', name:'goofy' }, { id:'06', name:'scrooge' } ]
 ```
 
 
