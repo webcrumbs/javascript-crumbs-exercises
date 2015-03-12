@@ -8,7 +8,7 @@ define a `Door` constructor function. A `door` instance exposes the two methods 
 
 ### `exercise01b`
 
-define a SecurityDoor constructor function that inherits the bhehaviour from `Door` but once `closed` a `security_door` instance can be `locked` via the `lock` method. Invoking the `unlock` method, bring the `security_door` back in the `close` state.
+define a `SecurityDoor` constructor function that inherits the bhehaviour from `Door` but once `closed` a `security_door` instance can be `locked` via the `lock` method. Invoking the `unlock` method, bring the `security_door` back in the `close` state.
 
 
 
